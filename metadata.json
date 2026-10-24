@@ -1,0 +1,6 @@
+{
+  "name": "EchoLink",
+  "description": "Low-latency browser-based PC-to-phone WebRTC audio streaming utility with live device radar, QR session pairing, and real-time audio visualization.",
+  "requestFramePermissions": ["camera", "microphone", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
